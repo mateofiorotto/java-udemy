@@ -21,7 +21,10 @@ public class PrimitivosBooleanos {
         System.out.println("f = " + f);
 
         //sin parentesis, es una sola expresion.
-        boolean datoLogico = d > f;
+        boolean datoLogico = d < f;
         System.out.println("datoLogico = " + datoLogico);
+
+        boolean esIgual = (3-2 == 1);
+        System.out.println("3-2 = 1 ? = " + esIgual);
     }
 }

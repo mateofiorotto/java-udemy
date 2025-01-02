@@ -1,5 +1,6 @@
 # Course of Java / Curso de Java
 ### Link: [Check Course / Ver Curso](https://www.udemy.com/course/master-completo-java-de-cero-a-experto)
+* All the exercises start with E in the class, like "EDetalleDeFactura.java" // Todos los ejercicios empiezan con E en la clase, asi como "EDetalleDeFactura.java"
 ### ENG
 The course is based on Java from zero to learn the basics and some advanced things.
 
