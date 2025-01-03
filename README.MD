@@ -1,6 +1,8 @@
 # Course of Java / Curso de Java
 ### Link: [Check Course / Ver Curso](https://www.udemy.com/course/master-completo-java-de-cero-a-experto)
 * All the exercises start with E in the class, like "EDetalleDeFactura.java" // Todos los ejercicios empiezan con E en la clase, asi como "EDetalleDeFactura.java"
+* At the end I will load the link to the notion that is a summary of the complete course in written form and with the examples of this repository / Al final cargaré el link al notion que es un resumen del curso completo en escrito y con los ejemplos de este repositorio.
+
 ### ENG
 The course is based on Java from zero to learn the basics and some advanced things.
 

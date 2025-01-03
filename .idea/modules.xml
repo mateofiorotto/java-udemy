@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-udemy.iml" filepath="$PROJECT_DIR$/java-udemy.iml" />
       <module fileurl="file://$PROJECT_DIR$/s_01_HolaMundo/s_01_HolaMundo.iml" filepath="$PROJECT_DIR$/s_01_HolaMundo/s_01_HolaMundo.iml" />
       <module fileurl="file://$PROJECT_DIR$/s_02_Variables/s_02_Variables.iml" filepath="$PROJECT_DIR$/s_02_Variables/s_02_Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s_03_Strings/s_03_Strings.iml" filepath="$PROJECT_DIR$/s_03_Strings/s_03_Strings.iml" />
     </modules>
   </component>
 </project>
