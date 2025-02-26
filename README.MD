@@ -1,5 +1,4 @@
-# Course of Java / Curso de Java
-## Actually I'm learning C#, so i paused this course. / Actualmente estoy aprendiendo C#, por lo que pause este curso.
+# I PAUSED THIS COURSE / PAUSE ESTE CURSO
 ### Link: [Check Course / Ver Curso](https://www.udemy.com/course/master-completo-java-de-cero-a-experto)
 * All the exercises start with E in the class, like "EDetalleDeFactura.java" // Todos los ejercicios empiezan con E en la clase, asi como "EDetalleDeFactura.java"
 * At the end I will load the link to the notion that is a summary of the complete course in written form and with the examples of this repository / Al final cargaré el link al notion que es un resumen del curso completo en escrito y con los ejemplos de este repositorio.
